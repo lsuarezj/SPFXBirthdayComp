@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "birthday",
+    "libraryId": "bd012bcb-e8af-4950-ac47-da7492a959e5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "birthday",
+    "solutionShortDescription": "birthday description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
